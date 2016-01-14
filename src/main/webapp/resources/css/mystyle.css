@@ -1,0 +1,30 @@
+.my-row
+{
+    border-bottom: 1px solid dimgrey;
+}
+
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+    border-radius: 4px;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+    border-radius: 4px;
+}
+.leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 10px 5px 5px; /* Отступы вокруг картинки */
+}
+.rightimg {
+    float: right; /* Выравнивание по правому краю  */
+    margin: 5px 5px 5px 10px; /* Отступы вокруг картинки */
+}
+
+#header{
+    margin-left: 45px;
+    margin-right: 45px;
+}
